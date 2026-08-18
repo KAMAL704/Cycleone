@@ -4,7 +4,7 @@
 A cutting-edge, performance-optimized website for Cycleone, delivering a seamless user experience with fluid animations and intuitive interactions across all devices.
 
 ## Live Website
-**👉 [Live Website](https://cycleone.in/)**
+**👉 [Live Website](https://cycleone.tech/)**
 
 ## Features
 - **Fully Responsive Layout**: Adapts effortlessly to all screen sizes and devices
@@ -108,7 +108,7 @@ git pull origin main
 ## Deployment
 The website is hosted using GitHub Pages.
 
-- **Production URL:** https://cycleone.in/
+- **Production URL:** https://cycleone.tech/
 - **Hosting:** GitHub Pages
 - **Deployment branch:** `main`
 - **Custom domain:** `cycleone.in`
